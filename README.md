@@ -1,4 +1,4 @@
 ##
 ##
-# Bulb Electric - Project.
+# Bulb Electric - MINI-Project.
 ##
